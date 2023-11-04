@@ -1,0 +1,37 @@
+{
+  "name": "monofocus",
+  "displayName": "MonoFocus",
+  "description": "MonoFocus is a theme that uses only white and its shades to create a distraction-free coding environment. The theme has a blue tint and can switch between light and dark modes.",
+  "version": "1.0.0",
+  "icon": "images/MonoFocus.png",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MonoFocus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MonoFocusDark-color-theme.json"
+      },
+      {
+        "label": "MonoFocus Terminal (Dark)",
+        "uiTheme": "hc-black",
+        "path": "./themes/MonoFocusTerminal-color-theme.json"
+      },
+      {
+        "label": "MonoFocus Light",
+        "uiTheme": "vs",
+        "path": "./themes/MonoFocusLight-color-theme.json"
+      },
+      {
+        "label": "MonoFocus Terminal (Light)",
+        "uiTheme": "hc-light",
+        "path": "./themes/MonoFocusTerminalLight-color-theme.json"
+      }
+    ]
+  }
+}
