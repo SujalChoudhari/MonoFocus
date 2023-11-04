@@ -3,9 +3,14 @@
   "displayName": "MonoFocus",
   "description": "MonoFocus is a theme that uses only white and its shades to create a distraction-free coding environment. The theme has a blue tint and can switch between light and dark modes.",
   "version": "1.0.0",
-  "icon": "https://raw.githubusercontent.com/SujalChoudhari/MonoFocus/main/images/MonoFocus.png",
+  "icon": "images/MonoFocus.png",
+  "publisher": "SujalVivekChoudhari",
   "engines": {
     "vscode": "^1.84.0"
+  },
+  "repository": {
+    "url": "https://github.com/SujalChoudhari/MonoFocus",
+    "type": "github"
   },
   "categories": [
     "Themes"
