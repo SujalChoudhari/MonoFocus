@@ -1,20 +1,19 @@
 # MonoFocus Visual Studio Code Theme
-
 MonoFocus is a simple and distraction-free theme for Visual Studio Code that provides a clean and elegant coding environment. The theme focuses on using only white and its shades to maintain a minimalist aesthetic, allowing you to concentrate on your code without any visual distractions.
 
 ## Screenshots
 
 ### Light Mode
-![MonoFocus Light](images\MonoFocusLight.png)
+![MonoFocus Light](https://github.com/SujalChoudhari/MonoFocus/blob/main/images/MonoFocusLight.png?raw=true)
 
 ### Dark Mode
-![MonoFocus Dark](images\MonoFocusDark.png)
+![MonoFocus Dark](https://github.com/SujalChoudhari/MonoFocus/blob/main/images/MonoFocusDark.png?raw=true)
 
 ### High Contrast Light Mode
-![MonoFocus Terminal (Light)](images\MonoFocusTerminalLight.png)
+![MonoFocus Terminal (Light)](https://github.com/SujalChoudhari/MonoFocus/blob/main/images/MonoFocusTerminalLight.png?raw=true)
 
 ### High Contrast Dark Mode
-![MonoFocus Terminal](images\MonoFocusTerminalDark.png)
+![MonoFocus Terminal](https://github.com/SujalChoudhari/MonoFocus/blob/main/images/MonoFocusTerminalDark.png?raw=true)
 
 ## Installation
 
